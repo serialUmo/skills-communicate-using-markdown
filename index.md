@@ -19,3 +19,8 @@ Random excerpt of code from a project:
 		if (not farthest_dplace(aemic_pool[-1]) < significantDecimals[-1]):
 			a_temp = a_temp.erase(a_temp.length() - 1, 1
 ```
+
+- [x] Added headers
+- [x] Added cat
+- [ ] Added the creature
+- [x] Added this list
